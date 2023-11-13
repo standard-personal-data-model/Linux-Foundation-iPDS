@@ -1,3 +1,4 @@
 # Linux-Foundation-iPDS
 Linux Foundation [Integrated Personal Data Store (iPDS)](https://github.com/integrated-personal-data-system) is currently using an early draft version of the IEEE Person Ontology in its testbed and plans to be an environment for test and demonstration, plus possible implementation if a User Group of early adopters can be recruited.  
 A video of a live demo of iPDS is at https://drive.google.com/file/d/1c95ESkIL5N5ASNZGza5TOg3okkfHBnUB/view?usp=sharing .
+The main Repo is at https://github.com/integrated-personal-data-system/Integrated-Personal-Data-Store.  The college intern developers are no longer available, so an Issue is created for someone to understand what they did so an updated version can be created.  It used an old depricated version of a Trinsic wallet, so one of more new wallets will need to be used.  The wallets provide security, but not a tiple-store data store, but that's what our project provides. 
